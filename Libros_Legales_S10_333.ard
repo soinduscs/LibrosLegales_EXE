@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="Exxis-Group" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Libros_Legales_S10_333" ExtVersion="920.104.33" Contdata="Exxis-Group" Partner="Exxis-Group" DBType="Both" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="920.000.00" To="930.999.99" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="Libros_Legales_S10_333" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="SAP_Libros_50.exe" AddonSig="5ED92C5777A2C5D5D20A6F75EF91256A" ExeDir="X86Client">
+        <Installation>
+          <Files>
+            <File FileName="X86Client\bandera.bmp">
+              <Actions />
+            </File>
+            <File FileName="X86Client\cm.txt">
+              <Actions />
+            </File>
+            <File FileName="X86Client\CreaUsuarioAddon.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmAcercade.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmactcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmbalance.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmbalancexx.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmbodmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmcarpro.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmchkprev.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmclamnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmConfig.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmConnectAddOn.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmcorcta.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmcormp.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmcorpt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmdsfmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmfacmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmfirma.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmfolmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmIPCmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlib3323.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibbod.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibcer.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibCLB.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibcon.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibCXC.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibfol.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibkar.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibmay.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibPRT.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibpueba.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibro.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibrodia_nousado.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmLlUser.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstcbe.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstcom.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstfac.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstinc.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstord.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmmnt3327.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmmnt3328.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmmntcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmnulmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmselecsuc.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmselimp.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmselsuc.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmsplash.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmsrch.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmtaxmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmtaxsel.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Legales.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Legalesap.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\LegalesEXXIS.DAT">
+              <Actions />
+            </File>
+            <File FileName="X86Client\logoExcel.jpg">
+              <Actions />
+            </File>
+            <File FileName="X86Client\logosap.bmp">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.b1s">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.pdb">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SBOFrmAsigSII.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\srch2.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X86Client\bandera.bmp">
+              <Actions />
+            </File>
+            <File FileName="X86Client\cm.txt">
+              <Actions />
+            </File>
+            <File FileName="X86Client\CreaUsuarioAddon.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmAcercade.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmactcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmbalance.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmbalancexx.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmbodmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmcarpro.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmchkprev.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmclamnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmConfig.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmConnectAddOn.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmcorcta.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmcormp.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmcorpt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmdsfmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmfacmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmfirma.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmfolmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmIPCmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlib3323.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibbod.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibcer.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibCLB.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibcon.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibCXC.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibfol.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibkar.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibmay.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibPRT.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibpueba.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibro.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlibrodia_nousado.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmLlUser.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstcbe.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstcom.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstfac.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstinc.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmlstord.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmmnt3327.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmmnt3328.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmmntcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmnulmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmselecsuc.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmselimp.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmselsuc.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmsplash.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmsrch.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmtaxmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\frmtaxsel.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Legales.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Legalesap.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\LegalesEXXIS.DAT">
+              <Actions />
+            </File>
+            <File FileName="X86Client\logoExcel.jpg">
+              <Actions />
+            </File>
+            <File FileName="X86Client\logosap.bmp">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.b1s">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.pdb">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAP_Libros_50.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SBOFrmAsigSII.srf">
+              <Actions />
+            </File>
+            <File FileName="X86Client\srch2.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="SAP_Libros_50.exe" AddonSig="40497766BDE899FCE10341DDF51E6F79" ExeDir="X64Client">
+        <Installation>
+          <Files>
+            <File FileName="X64Client\bandera.bmp">
+              <Actions />
+            </File>
+            <File FileName="X64Client\cm.txt">
+              <Actions />
+            </File>
+            <File FileName="X64Client\CreaUsuarioAddon.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmAcercade.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmactcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmbalance.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmbalancexx.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmbodmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmcarpro.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmchkprev.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmclamnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmConfig.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmConnectAddOn.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmcorcta.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmcormp.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmcorpt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmdsfmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmfacmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmfirma.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmfolmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmIPCmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlib3323.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibbod.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibcer.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibCLB.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibcon.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibCXC.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibfol.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibkar.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibmay.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibPRT.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibpueba.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibro.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibrodia_nousado.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmLlUser.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstcbe.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstcom.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstfac.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstinc.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstord.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmmnt3327.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmmnt3328.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmmntcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmnulmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmselecsuc.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmselimp.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmselsuc.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmsplash.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmsrch.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmtaxmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmtaxsel.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Legales.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Legalesap.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\LegalesEXXIS.DAT">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Legales_total.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\logoExcel.jpg">
+              <Actions />
+            </File>
+            <File FileName="X64Client\logosap.bmp">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.b1s">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.pdb">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SBOFrmAsigSII.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\srch2.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X64Client\bandera.bmp">
+              <Actions />
+            </File>
+            <File FileName="X64Client\cm.txt">
+              <Actions />
+            </File>
+            <File FileName="X64Client\CreaUsuarioAddon.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmAcercade.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmactcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmbalance.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmbalancexx.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmbodmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmcarpro.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmchkprev.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmclamnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmConfig.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmConnectAddOn.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmcorcta.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmcormp.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmcorpt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmdsfmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmfacmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmfirma.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmfolmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmIPCmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlib3323.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibbod.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibcer.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibCLB.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibcon.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibCXC.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibfol.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibkar.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibmay.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibPRT.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibpueba.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibro.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlibrodia_nousado.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmLlUser.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstcbe.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstcom.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstfac.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstinc.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmlstord.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmmnt3327.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmmnt3328.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmmntcor.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmnulmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmselecsuc.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmselimp.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmselsuc.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmsplash.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmsrch.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmtaxmnt.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\frmtaxsel.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Legales.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Legalesap.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\LegalesEXXIS.DAT">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Legales_total.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\logoExcel.jpg">
+              <Actions />
+            </File>
+            <File FileName="X64Client\logosap.bmp">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.b1s">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.pdb">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAP_Libros_50.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SBOFrmAsigSII.srf">
+              <Actions />
+            </File>
+            <File FileName="X64Client\srch2.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
