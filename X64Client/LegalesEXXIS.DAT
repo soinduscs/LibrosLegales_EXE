@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="rut" type="xs:long" minOccurs="0" />
+                <xs:element name="Dv" type="xs:string" minOccurs="0" />
+                <xs:element name="Nombre" type="xs:string" minOccurs="0" />
+                <xs:element name="Direccion" type="xs:string" minOccurs="0" />
+                <xs:element name="Comuna" type="xs:string" minOccurs="0" />
+                <xs:element name="Ciudad" type="xs:string" minOccurs="0" />
+                <xs:element name="Pais" type="xs:string" minOccurs="0" />
+                <xs:element name="Area" type="xs:string" minOccurs="0" />
+                <xs:element name="Fono" type="xs:string" minOccurs="0" />
+                <xs:element name="Licencia" type="xs:long" minOccurs="0" />
+                <xs:element name="Vcto" type="xs:string" minOccurs="0" />
+                <xs:element name="NumeroSistema" type="xs:string" minOccurs="0" />
+                <xs:element name="Verif" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <rut>96563290</rut>
+    <Dv>5</Dv>
+    <Nombre>EQUIPO MARCOS MONTOYA</Nombre>
+    <Direccion>AV VITACURA 2736</Direccion>
+    <Comuna>LAS CONDES</Comuna>
+    <Ciudad>SANTIAGO</Ciudad>
+    <Pais>Chile</Pais>
+    <Area>562</Area>
+    <Fono>26584300</Fono>
+    <Licencia>50314</Licencia>
+    <Vcto>31-12-2999</Vcto>
+    <NumeroSistema>000000000850165060</NumeroSistema>
+    <Verif>32754699.3347672</Verif>
+  </Table1>
+</NewDataSet>
